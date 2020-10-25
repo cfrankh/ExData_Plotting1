@@ -38,5 +38,3 @@ dev.copy(png, filename = "plot1.png",
 dev.off()
 dev.off()
 dev.cur()
-
-#par(mar= c(4, 4, 2, 1))
